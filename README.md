@@ -1,1 +1,5 @@
 # python
+
+Hi 
+
+mastering #python
